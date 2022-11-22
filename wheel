@@ -1,0 +1,5 @@
+# path /etc/sudoers.d/wheel
+# allow users in wheel group to use sudo with a password,
+# and use shutdown, reboot, mount etc with no password
+%wheel ALL=(ALL:ALL) ALL
+%wheel ALL=(ALL:ALL) NOPASSWD: /usr/bin/shutdown,/usr/bin/reboot,/usr/bin/mount,/usr/bin/umount,/usr/bin/loadkeys

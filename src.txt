@@ -1,0 +1,11 @@
+abook
+gtk-theme-arc-gruvbox
+htop-vim
+libxls
+libxlsxwriter
+mutt-wizard-git
+sc-im
+simple-mtpfs
+zsh-fast-syntax-highlighting
+zsh-plugin-wd
+zsh-autosuggestions
