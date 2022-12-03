@@ -13,8 +13,6 @@ copyq
 dhcpcd
 dosfstools
 dunst
-esysusers
-etmpfiles
 fakeroot
 fd
 feh
@@ -67,7 +65,6 @@ pipewire-pulse
 pulsemixer
 python-pip
 python-qdarkstyle
-python2
 ripgrep
 rust
 sdcv
