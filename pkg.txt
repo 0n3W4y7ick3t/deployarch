@@ -66,7 +66,6 @@ pulsemixer
 python-pip
 python-qdarkstyle
 ripgrep
-rust
 sdcv
 sed
 socat
@@ -77,6 +76,7 @@ texinfo
 tmux
 ttf-fira-code
 ttf-hack
+ttf-nerd-fonts-symbols-2048-em
 ueberzug
 unclutter
 unzip
