@@ -2,7 +2,7 @@
 
 ## fstab example
 ```
-UUID=a9a9be08-f60f-457f-90c6-6af92fb51e8f /            btrfs noatime,ssd,rw,relatime,space_cache=v2	       0 0
+UUID=a9a9be08-f60f-457f-90c6-6af92fb51e8f /            btrfs noatime,ssd,rw,relatime,space_cache=v2            0 0
 # owner set to comman user(uid=1000,gid=1000), directory mode 1744, file mode 0644
 UUID=38AB08CE23021498                     /home/media  ntfs  noatime,ssd,dmask=033,fmask=133,uid=1000,gid=1000 0 0
 tmpfs                                     /tmp         tmpfs noatime                                           0 0
