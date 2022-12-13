@@ -6,6 +6,4 @@ libxlsxwriter
 mutt-wizard-git
 sc-im
 simple-mtpfs
-zsh-fast-syntax-highlighting
 zsh-plugin-wd
-zsh-autosuggestions
